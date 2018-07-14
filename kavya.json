@@ -1,0 +1,56 @@
+{
+	"Basics":{
+		"name":"KAVYA",
+		"email":"tkavya.1197@gmail.com",
+		"mobile":"+91 9876543210"
+	},
+	"career":{
+    "info":
+    "To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+
+	},
+	"education":[
+		{
+			"degree":"B.Tech(C.S.E)",
+			"institute":"Avanthi",
+			"data":["2015-19","77.3%"]
+
+		},
+		{
+		"degree":"Intermediate/Diploma",
+			"institute":"Srichaitanya junior college",
+			"data":["2013-15","87%"]
+	
+		},
+		{
+			"degree":"S.S.C",
+			"institute":"Rushivalley public school",
+			"data":["2012-13","88%"]
+	
+		}
+	],
+	"skills":[
+		{
+			"title":"Programming Languages",
+			"info":["c","c++","Java","Html"]
+		},
+		{
+			"title":"DataBases",
+			"info":["mongoDb","mySql","Oracle"]
+		},
+		{
+			"title":"Web Technologies",
+			"info":["HTML5","CSS3","Javascript"]
+		},
+		{
+			"title":"Libraries and Frameworks",
+			"info":["ionic","Angular","expressJs",".Net"]
+
+		},
+		{
+			"title":"Operating Systems",
+			"info":["Linux","Unix","Windows"]
+		}
+	]
+		
+}
